@@ -1,1 +1,3 @@
 # LinLearnNotes
+
+my learn notes
